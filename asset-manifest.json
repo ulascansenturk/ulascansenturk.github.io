@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8532127e.css",
+    "main.js": "/static/js/main.e15d70d8.js",
+    "static/media/resume.pdf": "/static/media/resume.66f0d74c5546b453535d.pdf",
+    "static/media/ulas.png": "/static/media/ulas.159805c24bdc7f10d1dc.png",
+    "static/media/wipro.png": "/static/media/wipro.5e4a8b2bd86470d37658.png",
+    "static/media/superpay.png": "/static/media/superpay.b0a9aac830d262ff0b48.png",
+    "index.html": "/index.html",
+    "main.8532127e.css.map": "/static/css/main.8532127e.css.map",
+    "main.e15d70d8.js.map": "/static/js/main.e15d70d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8532127e.css",
+    "static/js/main.e15d70d8.js"
+  ]
+}
